@@ -4,7 +4,7 @@ const items = [
     "2 cups butter lettuce",
     "1 yellow squash",
     "1/2 cup olive oil",
-    "3 cloves of garlic"
+    "3 cloves of garlic" 
 ]
 
 const instructions = [
